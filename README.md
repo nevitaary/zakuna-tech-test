@@ -9,4 +9,4 @@ terdiri dari 3 file:
 3. index.html
    script untuk sisi klien, terdapat user interface untuk berinteraksi dengan sistem dan memanggil script server
 
-Good Luck!!
+Good Luck!!!
