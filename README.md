@@ -8,3 +8,5 @@ terdiri dari 3 file:
    script untuk membuat class dalam OO, terdapat proses membalik nilai di dalamnya
 3. index.html
    script untuk sisi klien, terdapat user interface untuk berinteraksi dengan sistem dan memanggil script server
+
+Good Luck!!
